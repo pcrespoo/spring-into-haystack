@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+haystack-agent-githubmcp/
 
 # Spyder project settings
 .spyderproject
